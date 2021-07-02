@@ -135,4 +135,3 @@ namespace MeuPrimeiroPrograma
     }
 }
 
-//implementar Bitcoin etc....
